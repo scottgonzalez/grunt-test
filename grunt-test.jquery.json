@@ -1,0 +1,30 @@
+{
+  "name": "grunt-test",
+  "title": "Grunt Test",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/scottgonzalez/grunt-test",
+  "author": {
+    "name": "Scott González",
+    "email": "scott.gonzalez@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottgonzalez/grunt-test.git"
+  },
+  "bugs": "https://github.com/scottgonzalez/grunt-test/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/scottgonzalez/grunt-test/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL-2.0",
+      "url": "https://github.com/scottgonzalez/grunt-test/blob/master/LICENSE-GPL-2.0"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
